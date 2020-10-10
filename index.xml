@@ -7,14 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright 2019-{year} Han Wu. All rights reserved.</copyright><atom:link href="https://blog.hanwu.me/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://blog.hanwu.me/about/</link>
-      <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
-      
-      <guid>https://blog.hanwu.me/about/</guid>
-      <description>拣尽寒枝不肯栖，寂寞沙洲冷。-苏轼</description>
-    </item>
-    
   </channel>
 </rss>
