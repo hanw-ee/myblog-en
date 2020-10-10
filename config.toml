@@ -1,4 +1,4 @@
-baseURL = "https://hanw-ee.github.io/myblog"
+baseURL = "http://www.hanwu.me/myblog"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "ZO ZO"                         # site title  # 网站标题
