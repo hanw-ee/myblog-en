@@ -1,4 +1,4 @@
-baseURL = "http://www.hanwu.me/myblog/"
+baseURL = "http://blog.hanwu.me"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "ZO ZO"                         # site title  # 网站标题
