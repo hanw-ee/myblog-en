@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "About"
 date: 2020-10-10T19:12:29+02:00
 lastmod: 2020-10-10T19:12:29+02:00
 draft: true
