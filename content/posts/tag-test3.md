@@ -1,13 +1,13 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: "Tag Test3"
+date: 2020-10-10T16:11:42+02:00
+lastmod: 2020-10-10T16:11:42+02:00
 draft: true
 keywords: []
 description: ""
-tags: []
-categories: []
-author: ""
+tags: [测试]
+categories: [测试]
+author: "Han Wu"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
@@ -36,5 +36,4 @@ sequenceDiagrams:
 
 ---
 
-
-
+测试测试
