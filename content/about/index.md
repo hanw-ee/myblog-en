@@ -1,42 +1,13 @@
 ---
-title: "About"
-date: 2020-10-10T19:12:29+02:00
-lastmod: 2020-10-10T19:12:29+02:00
-draft: true
-keywords: []
-description: ""
-tags: []
-categories: []
-author: ""
-
-# You can also close(false) or open(true) something for this content.
-# P.S. comment can only be closed
-comment: false
-toc: false
-autoCollapseToc: false
-postMetaInFooter: false
-hiddenFromHomePage: false
-# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: True
-
-# You unlisted posts you might want not want the header or footer to show
-hideHeaderAndFooter: false
-
-# You can enable or disable out-of-date content warning for individual post.
-# Comment this out to use the global config.
-#enableOutdatedInfoWarning: false
-
-flowchartDiagrams:
-  enable: false
-  options: ""
-
-sequenceDiagrams: 
-  enable: false
-  options: ""
-
+title: "关于"
+date: 2018-12-29T20:24:28+08:00
+hidden: true
+draft: false
 ---
 
+Hugo 官方主页: [https://gohugo.io/](https://gohugo.io/)
 
+Hugo的安装方式有两种，一种是直接下载编译好的Hugo二进制文件。如果只是使用Hugo推荐用这种方式。另一种方式是获取Hugo的源码，自己编译。由于各种不可预料的网络问题，第二种方式不是那么轻易能成功，虽然最后我还是折腾出来了。
 
-> 拣尽寒枝不肯栖，寂寞沙洲冷。-苏轼
+Hugo二进制下载地址: [https://github.com/gohugoio/hugo/releases](https://github.com/gohugoio/hugo/releases)
 
