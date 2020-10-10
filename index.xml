@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZO ZO</title>
-    <link>http://www.hanwu.me/myblog/</link>
+    <link>http://blog.hanwu.me/</link>
     <description>Recent content on ZO ZO</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.hanwu.me/myblog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://blog.hanwu.me/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
