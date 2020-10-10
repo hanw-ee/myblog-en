@@ -43,7 +43,7 @@ pygmentscodefencesguesssyntax = true
   url = "/about/"
 
 [params]
-  # subTitle = "Han Wu's Blog"                                       # site's subTitle  # 网站二级标题
+   subTitle = "Han Wu's Blog"                                       # site's subTitle  # 网站二级标题
   #footerSlogan = "$H(X)=E[-logP_X]$"                                   # site's footer slogan  # 网站页脚标语
   keywords = ["Han Wu","Blog"]                                  # site's keywords  # 网站关键字
   description = "Han Wu's blog."                        # site's description  # 网站描述
@@ -67,7 +67,6 @@ pygmentscodefencesguesssyntax = true
  # twitter = " "
  # facebook = " "
   #weibo = " "
-  user = ""
   #instagram = " "
 
 [markup]
@@ -75,9 +74,5 @@ pygmentscodefencesguesssyntax = true
 [markup.goldmark.renderer]
   unsafe = true
   
-[taxonomies]
-  tag = "tags"
-  series = "series"
-  category = "categories"
 
 
