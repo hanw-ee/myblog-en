@@ -32,29 +32,5 @@ If you think I am infringing your copyright, please contact me through github is
 1</description>
     </item>
     
-    <item>
-      <title>Second Test</title>
-      <link>https://enblog.hanwu.me/posts/second-test/</link>
-      <pubDate>Fri, 09 Oct 2020 18:50:26 +0200</pubDate>
-      
-      <guid>https://enblog.hanwu.me/posts/second-test/</guid>
-      <description>test1
-1
-11
-1
-1
-1
-1</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://enblog.hanwu.me/posts/test/</link>
-      <pubDate>Fri, 09 Oct 2020 18:23:46 +0200</pubDate>
-      
-      <guid>https://enblog.hanwu.me/posts/test/</guid>
-      <description>test</description>
-    </item>
-    
   </channel>
 </rss>
