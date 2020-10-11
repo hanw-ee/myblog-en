@@ -63,11 +63,13 @@ pygmentscodefencesguesssyntax = true
 
 # Your socail's url
 [social]
+
   github = "https://github.com/hanw-ee "
 #  twitter = " "
 #  facebook = " "
 #  weibo = " "
 #  instagram = " "
+  user="www.hanwu.me"
 
 [markup]
 [markup.goldmark]
