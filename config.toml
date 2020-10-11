@@ -1,4 +1,4 @@
-baseURL = "https://www.hanwu.me/myblog-en"
+baseURL = "http://enblog.hanwu.me"
 languageCode = "en"
 defaultContentLanguage = "en"
 copyright = "Copyright 2019-{year} Han Wu. All rights reserved."
