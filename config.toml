@@ -42,6 +42,12 @@ pygmentscodefencesguesssyntax = true
   identifier = "about"
   url = "/about/"
 
+[[menu.main]]
+  name = "中文"
+  weight = 50
+  identifier = "zh"
+  url = "https://blog.hanwu.me"
+
 [params]
   subTitle = "拣尽寒枝不肯栖，寂寞沙洲冷"                                       # site's subTitle  # 网站二级标题
   footerSlogan = "My spiritual home"                                   # site's footer slogan  # 网站页脚标语
