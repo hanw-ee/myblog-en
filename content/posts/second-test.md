@@ -1,7 +1,7 @@
 ---
 title: "Second Test"
 date: 2020-10-09T18:50:26+02:00
-draft: true
+draft: false
 ---
 
 test1
