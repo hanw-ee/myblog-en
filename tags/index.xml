@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 我思我在</title>
-    <link>https://www.hanwu.me/myblog-en/tags/</link>
+    <link>http://enblog.hanwu.me/tags/</link>
     <description>Recent content in Tags on 我思我在</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright 2019-{year} Han Wu. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 10 Oct 2020 21:18:31 +0200</lastBuildDate><atom:link href="https://www.hanwu.me/myblog-en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2020 21:18:31 +0200</lastBuildDate><atom:link href="http://enblog.hanwu.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>https://www.hanwu.me/myblog-en/tags/test/</link>
+      <link>http://enblog.hanwu.me/tags/test/</link>
       <pubDate>Sat, 10 Oct 2020 21:18:31 +0200</pubDate>
       
-      <guid>https://www.hanwu.me/myblog-en/tags/test/</guid>
+      <guid>http://enblog.hanwu.me/tags/test/</guid>
       <description></description>
     </item>
     

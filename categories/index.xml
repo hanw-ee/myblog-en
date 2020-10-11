@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 我思我在</title>
-    <link>https://www.hanwu.me/myblog-en/categories/</link>
+    <link>http://enblog.hanwu.me/categories/</link>
     <description>Recent content in Categories on 我思我在</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright 2019-{year} Han Wu. All rights reserved.</copyright><atom:link href="https://www.hanwu.me/myblog-en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright 2019-{year} Han Wu. All rights reserved.</copyright><atom:link href="http://enblog.hanwu.me/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

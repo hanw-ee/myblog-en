@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.hanwu.me/myblog-en/about/</loc>
+    <loc>http://enblog.hanwu.me/about/</loc>
     <lastmod>2020-10-10T21:23:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hanwu.me/myblog-en/posts/</loc>
+    <loc>http://enblog.hanwu.me/posts/</loc>
     <lastmod>2020-10-10T21:18:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hanwu.me/myblog-en/tags/</loc>
+    <loc>http://enblog.hanwu.me/tags/</loc>
     <lastmod>2020-10-10T21:18:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hanwu.me/myblog-en/tags/test/</loc>
+    <loc>http://enblog.hanwu.me/tags/test/</loc>
     <lastmod>2020-10-10T21:18:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hanwu.me/myblog-en/posts/test/</loc>
+    <loc>http://enblog.hanwu.me/posts/test/</loc>
     <lastmod>2020-10-10T21:18:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hanwu.me/myblog-en/</loc>
+    <loc>http://enblog.hanwu.me/</loc>
     <lastmod>2020-10-10T21:18:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hanwu.me/myblog-en/posts/second-test/</loc>
+    <loc>http://enblog.hanwu.me/posts/second-test/</loc>
     <lastmod>2020-10-09T18:50:26+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hanwu.me/myblog-en/posts/test/</loc>
+    <loc>http://enblog.hanwu.me/posts/test/</loc>
     <lastmod>2020-10-09T18:23:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.hanwu.me/myblog-en/categories/</loc>
+    <loc>http://enblog.hanwu.me/categories/</loc>
   </url>
   
 </urlset>
